@@ -1,0 +1,6 @@
+Repository URL = https://github.com/ttocs8/CADTalkGitImplementation.git
+Directory of Local Repository = C:\TEMP\TESTGIT
+*Repository Name = CADTalkGitImplementation
+
+**NOTE**: please leave a space between the equal sign and the URL/Directory 
+*Repository Name is the exact name of the repository/folder as seen in GitHub
